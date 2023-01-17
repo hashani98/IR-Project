@@ -22,7 +22,6 @@ Song Search Engine using ElasticSearch and Python for IR Project(CS4642)
 * index_creation.py - Python code for index creating and data inserting
 * search_function.py - Python code use for process search query
 * advanced_queries.py - Elastic Search queries
-* requirements.txt - python requirements 
 
 ## Details of Song Data
 scraped_songs.json file contains 105 Sinhala Songs with the following data.
