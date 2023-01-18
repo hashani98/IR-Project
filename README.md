@@ -37,9 +37,9 @@ scraped_songs.json file contains 105 Sinhala Songs with the following data.
 
 ## Basic Functionalities
 * It supports searching by the title, artist name, writer name, composer name, or using the part of the lyrics.(Faceted Query)
-> eg : රන් ටිකිරි සිනා
+> eg : පායා නැගී ඒවි රන් තාරාකා, නුඹේ සිතට සුනිල් එදිරිසිංහ
 * Search Engine can identify synonyms related to specific fields like ගයපු(artist), ලියපු(lyricist), සංගීත(music) and search
 based on the identified fields
 > eg : ගුණදාස කපුගේ ගයපු සින්දු, ලුෂන් බුලත්සිංහල ලියූ සින්දු, එච්.එම්. ජයවර්ධන සංගීතවත් කල ගී
 * Search Engine also shows metaphors in each song with their source domain, target domain and interpretation
-> eg : 
+
